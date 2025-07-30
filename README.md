@@ -1,6 +1,6 @@
 # Adversarial-Attack-MNIST
 Adversarial attack and defense of ML algorithms 
-.This phase evaluates how a CNN trained on MNIST behaves under adversarial attacks and how two defense strategies—adversarial training and defensive distillation—impact robustness. The work complements FYP‑I (NIDS), but this README focuses only on the MNIST experiments. 
+.This phase evaluates how a CNN trained on MNIST behaves under adversarial attacks and how two defense strategies—adversarial training and defensive distillation—impact robustness. 
 
 What we built
 A 2D CNN with two sequential conv blocks and three fully‑connected layers; trained with Adam and NLLLoss. 
