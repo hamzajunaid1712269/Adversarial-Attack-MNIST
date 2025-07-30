@@ -17,7 +17,7 @@ Targeted FGSM: drives the model toward a specific (incorrect) target class by op
 ## Defenses
 Adversarial Training: augments training with FGSM‑crafted examples to improve robustness. 
 
-## Defensive Distillation: trains a student network on soft labels (class probabilities) from a teacher model. 
+ Defensive Distillation: trains a student network on soft labels (class probabilities) from a teacher model. 
 
 ## What we ran & visualized
 Attacks evaluated on:
